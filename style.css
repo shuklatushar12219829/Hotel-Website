@@ -1,0 +1,137 @@
+.d-flex{
+    background-image: url(./wallpaper6.jpg);
+   
+}
+.nav-link{
+    color: black;
+    font-family: 'Staatliches', cursive;
+    
+}
+.nav-link{
+    color:rgb(73, 121, 83);
+}
+.carousel {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0px;
+}
+.nav-bar{
+    margin: 0 auto;
+}
+h2{
+    letter-spacing: 3px;
+    color:rgb(73, 121, 83);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.box1{
+    align-self: center;
+    text-align: center;
+    color: gray;
+}
+img{
+    float: right;
+    
+}
+.email{
+    color:rgb(181, 135, 83)
+}
+.aboutus{
+    color: gray;
+    font-family: 'Staatliches', cursive;
+    font-family: 'Ysabeau Office', sans-serif;
+    margin-left: 30px;
+}
+.img{
+    margin: 0px 30px;
+}
+#blog{
+    display:flex;
+    gap: 50px;
+    height: 200px;
+    
+}
+.blog1{
+    flex-basis: 100px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Staatliches', cursive;
+    font-family: 'Ysabeau Office', sans-serif;
+    margin-left: 100px;
+}
+.hawamahal{
+    height: 250px;
+    width: 400px;
+}
+a{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+.blogtitle{
+    font-family: 'Ysabeau SC', sans-serif;
+}
+.blog2{
+    flex-basis: 100px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Staatliches', cursive;
+    font-family: 'Ysabeau Office', sans-serif;
+}
+.jaipurmahal{
+    height: 220px;
+    width: 400px;
+}
+.cr{
+    font-size: 15px;
+    font-style: italic;
+    color: rgb(181, 135, 83);
+}
+.footer{
+    margin: 400px;
+}
+.rooms{
+    color: gray;
+    font-family: 'Staatliches', cursive;
+    font-family: 'Ysabeau Office', sans-serif;
+    align-self: center;
+    text-align: center;
+    margin-top: 30px;
+}
+.description{
+        color: gray;
+        font-family: 'Staatliches', cursive;
+        font-family: 'Ysabeau Office', sans-serif;}
+.pools{
+    color: gray;
+    font-family: 'Staatliches', cursive;
+    font-family: 'Ysabeau Office', sans-serif;
+    align-self: center;
+    text-align: center;
+    margin-top: 30px;
+}
+.pf{
+    margin-left: 550px;
+}
+.pool>img{
+    float: left;
+}
+.bars{
+    color: gray;
+    font-family: 'Staatliches', cursive;
+    font-family: 'Ysabeau Office', sans-serif;
+    align-self: center;
+    text-align: center;
+    margin-top: 30px;
+}
+body, html {
+    height: 100%;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  
